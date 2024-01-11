@@ -1,2 +1,5 @@
-# pyfight
-mediocre turn-based battle engine in python.
+so like
+
+this MAY be buggy
+
+i dont think it is though
